@@ -1,0 +1,14 @@
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\write-your-first-code\bin\Debug\net8.0\write-your-first-code.exe
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\write-your-first-code\bin\Debug\net8.0\write-your-first-code.deps.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\write-your-first-code\bin\Debug\net8.0\write-your-first-code.runtimeconfig.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\write-your-first-code\bin\Debug\net8.0\write-your-first-code.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\write-your-first-code\bin\Debug\net8.0\write-your-first-code.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\write-your-first-code\obj\Debug\net8.0\write-your-first-code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\write-your-first-code\obj\Debug\net8.0\write-your-first-code.AssemblyInfoInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\write-your-first-code\obj\Debug\net8.0\write-your-first-code.AssemblyInfo.cs
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\write-your-first-code\obj\Debug\net8.0\write-your-first-code.csproj.CoreCompileInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\write-your-first-code\obj\Debug\net8.0\write-your-first-code.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\write-your-first-code\obj\Debug\net8.0\refint\write-your-first-code.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\write-your-first-code\obj\Debug\net8.0\write-your-first-code.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\write-your-first-code\obj\Debug\net8.0\write-your-first-code.genruntimeconfig.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\write-your-first-code\obj\Debug\net8.0\ref\write-your-first-code.dll

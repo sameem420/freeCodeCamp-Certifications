@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "write-your-first-code/1.0.0": {
+        "runtime": {
+          "write-your-first-code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "write-your-first-code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
