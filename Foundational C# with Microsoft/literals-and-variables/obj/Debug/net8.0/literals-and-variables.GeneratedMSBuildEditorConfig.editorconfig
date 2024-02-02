@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = literals_and_variables
-build_property.ProjectDir = C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\literals-and-variables\
+build_property.ProjectDir = C:\Users\Sameem\Documents\GitHub\freeCodeCamp-Certifications\Foundational C# with Microsoft\literals-and-variables\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
