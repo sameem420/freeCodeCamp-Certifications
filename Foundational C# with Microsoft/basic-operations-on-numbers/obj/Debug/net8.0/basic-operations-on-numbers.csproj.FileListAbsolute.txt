@@ -1,0 +1,14 @@
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\basic-operations-on-numbers\obj\Debug\net8.0\basic-operations-on-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\basic-operations-on-numbers\obj\Debug\net8.0\basic-operations-on-numbers.AssemblyInfoInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\basic-operations-on-numbers\obj\Debug\net8.0\basic-operations-on-numbers.AssemblyInfo.cs
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\basic-operations-on-numbers\obj\Debug\net8.0\basic-operations-on-numbers.csproj.CoreCompileInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\basic-operations-on-numbers\bin\Debug\net8.0\basic-operations-on-numbers.exe
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\basic-operations-on-numbers\bin\Debug\net8.0\basic-operations-on-numbers.deps.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\basic-operations-on-numbers\bin\Debug\net8.0\basic-operations-on-numbers.runtimeconfig.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\basic-operations-on-numbers\bin\Debug\net8.0\basic-operations-on-numbers.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\basic-operations-on-numbers\bin\Debug\net8.0\basic-operations-on-numbers.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\basic-operations-on-numbers\obj\Debug\net8.0\basic-operations-on-numbers.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\basic-operations-on-numbers\obj\Debug\net8.0\refint\basic-operations-on-numbers.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\basic-operations-on-numbers\obj\Debug\net8.0\basic-operations-on-numbers.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\basic-operations-on-numbers\obj\Debug\net8.0\basic-operations-on-numbers.genruntimeconfig.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\basic-operations-on-numbers\obj\Debug\net8.0\ref\basic-operations-on-numbers.dll
