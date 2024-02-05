@@ -1,0 +1,14 @@
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-print-student-grades\bin\Debug\net8.0\guided-project-calc-print-student-grades.exe
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-print-student-grades\bin\Debug\net8.0\guided-project-calc-print-student-grades.deps.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-print-student-grades\bin\Debug\net8.0\guided-project-calc-print-student-grades.runtimeconfig.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-print-student-grades\bin\Debug\net8.0\guided-project-calc-print-student-grades.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-print-student-grades\bin\Debug\net8.0\guided-project-calc-print-student-grades.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-print-student-grades\obj\Debug\net8.0\guided-project-calc-print-student-grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-print-student-grades\obj\Debug\net8.0\guided-project-calc-print-student-grades.AssemblyInfoInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-print-student-grades\obj\Debug\net8.0\guided-project-calc-print-student-grades.AssemblyInfo.cs
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-print-student-grades\obj\Debug\net8.0\guided-project-calc-print-student-grades.csproj.CoreCompileInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-print-student-grades\obj\Debug\net8.0\guided-project-calc-print-student-grades.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-print-student-grades\obj\Debug\net8.0\refint\guided-project-calc-print-student-grades.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-print-student-grades\obj\Debug\net8.0\guided-project-calc-print-student-grades.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-print-student-grades\obj\Debug\net8.0\guided-project-calc-print-student-grades.genruntimeconfig.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-print-student-grades\obj\Debug\net8.0\ref\guided-project-calc-print-student-grades.dll
