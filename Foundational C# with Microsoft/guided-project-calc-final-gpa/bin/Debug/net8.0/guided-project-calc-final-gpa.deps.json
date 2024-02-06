@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "guided-project-calc-final-gpa/1.0.0": {
+        "runtime": {
+          "guided-project-calc-final-gpa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "guided-project-calc-final-gpa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

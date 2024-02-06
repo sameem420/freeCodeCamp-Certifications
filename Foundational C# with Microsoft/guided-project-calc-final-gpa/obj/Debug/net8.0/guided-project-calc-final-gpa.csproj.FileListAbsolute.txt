@@ -1,0 +1,14 @@
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-final-gpa\bin\Debug\net8.0\guided-project-calc-final-gpa.exe
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-final-gpa\bin\Debug\net8.0\guided-project-calc-final-gpa.deps.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-final-gpa\bin\Debug\net8.0\guided-project-calc-final-gpa.runtimeconfig.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-final-gpa\bin\Debug\net8.0\guided-project-calc-final-gpa.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-final-gpa\bin\Debug\net8.0\guided-project-calc-final-gpa.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-final-gpa\obj\Debug\net8.0\guided-project-calc-final-gpa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-final-gpa\obj\Debug\net8.0\guided-project-calc-final-gpa.AssemblyInfoInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-final-gpa\obj\Debug\net8.0\guided-project-calc-final-gpa.AssemblyInfo.cs
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-final-gpa\obj\Debug\net8.0\guided-project-calc-final-gpa.csproj.CoreCompileInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-final-gpa\obj\Debug\net8.0\guided-project-calc-final-gpa.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-final-gpa\obj\Debug\net8.0\refint\guided-project-calc-final-gpa.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-final-gpa\obj\Debug\net8.0\guided-project-calc-final-gpa.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-final-gpa\obj\Debug\net8.0\guided-project-calc-final-gpa.genruntimeconfig.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\guided-project-calc-final-gpa\obj\Debug\net8.0\ref\guided-project-calc-final-gpa.dll
