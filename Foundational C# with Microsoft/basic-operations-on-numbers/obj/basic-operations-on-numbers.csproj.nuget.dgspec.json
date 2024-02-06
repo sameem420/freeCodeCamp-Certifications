@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\basic-operations-on-numbers\\basic-operations-on-numbers.csproj": {}
+    "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\basic-operations-on-numbers\\basic-operations-on-numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\basic-operations-on-numbers\\basic-operations-on-numbers.csproj": {
+    "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\basic-operations-on-numbers\\basic-operations-on-numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\basic-operations-on-numbers\\basic-operations-on-numbers.csproj",
+        "projectUniqueName": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\basic-operations-on-numbers\\basic-operations-on-numbers.csproj",
         "projectName": "basic-operations-on-numbers",
-        "projectPath": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\basic-operations-on-numbers\\basic-operations-on-numbers.csproj",
+        "projectPath": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\basic-operations-on-numbers\\basic-operations-on-numbers.csproj",
         "packagesPath": "C:\\Users\\Sameem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\basic-operations-on-numbers\\obj\\",
+        "outputPath": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\basic-operations-on-numbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {

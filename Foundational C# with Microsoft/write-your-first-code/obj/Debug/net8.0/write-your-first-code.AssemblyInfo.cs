@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("write-your-first-code")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aacd8af36d786b1907b41be4e32f472a6cfa53cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1979edaa618fb7909a0347b6882af672cfe40ebe")]
 [assembly: System.Reflection.AssemblyProductAttribute("write-your-first-code")]
 [assembly: System.Reflection.AssemblyTitleAttribute("write-your-first-code")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\guided-project-calc-print-student-grades\\guided-project-calc-print-student-grades.csproj",
+      "projectUniqueName": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\guided-project-calc-print-student-grades\\guided-project-calc-print-student-grades.csproj",
       "projectName": "guided-project-calc-print-student-grades",
-      "projectPath": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\guided-project-calc-print-student-grades\\guided-project-calc-print-student-grades.csproj",
+      "projectPath": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\guided-project-calc-print-student-grades\\guided-project-calc-print-student-grades.csproj",
       "packagesPath": "C:\\Users\\Sameem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\guided-project-calc-print-student-grades\\obj\\",
+      "outputPath": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\guided-project-calc-print-student-grades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
