@@ -1,0 +1,14 @@
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\store-and-iterate\bin\Debug\net8.0\store-and-iterate.exe
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\store-and-iterate\bin\Debug\net8.0\store-and-iterate.deps.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\store-and-iterate\bin\Debug\net8.0\store-and-iterate.runtimeconfig.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\store-and-iterate\bin\Debug\net8.0\store-and-iterate.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\store-and-iterate\bin\Debug\net8.0\store-and-iterate.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\store-and-iterate\obj\Debug\net8.0\store-and-iterate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\store-and-iterate\obj\Debug\net8.0\store-and-iterate.AssemblyInfoInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\store-and-iterate\obj\Debug\net8.0\store-and-iterate.AssemblyInfo.cs
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\store-and-iterate\obj\Debug\net8.0\store-and-iterate.csproj.CoreCompileInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\store-and-iterate\obj\Debug\net8.0\store-and-iterate.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\store-and-iterate\obj\Debug\net8.0\refint\store-and-iterate.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\store-and-iterate\obj\Debug\net8.0\store-and-iterate.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\store-and-iterate\obj\Debug\net8.0\store-and-iterate.genruntimeconfig.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\store-and-iterate\obj\Debug\net8.0\ref\store-and-iterate.dll
