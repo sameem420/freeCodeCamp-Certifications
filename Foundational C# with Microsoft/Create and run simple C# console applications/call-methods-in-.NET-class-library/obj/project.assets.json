@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Create and run simple C# console applications (Get started with C#, Part 2)\\call-methods-in-.NET-class-library\\call-methods-in-.NET-class-library.csproj",
+      "projectUniqueName": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Create and run simple C# console applications\\call-methods-in-.NET-class-library\\call-methods-in-.NET-class-library.csproj",
       "projectName": "call-methods-in-.NET-class-library",
-      "projectPath": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Create and run simple C# console applications (Get started with C#, Part 2)\\call-methods-in-.NET-class-library\\call-methods-in-.NET-class-library.csproj",
+      "projectPath": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Create and run simple C# console applications\\call-methods-in-.NET-class-library\\call-methods-in-.NET-class-library.csproj",
       "packagesPath": "C:\\Users\\Sameem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Create and run simple C# console applications (Get started with C#, Part 2)\\call-methods-in-.NET-class-library\\obj\\",
+      "outputPath": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Create and run simple C# console applications\\call-methods-in-.NET-class-library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

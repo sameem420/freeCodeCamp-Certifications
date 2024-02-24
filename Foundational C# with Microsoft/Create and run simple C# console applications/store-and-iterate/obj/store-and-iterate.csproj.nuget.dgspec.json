@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Create and run simple C# console applications\\store-and-iterate\\store-and-iterate.csproj": {}
+    "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Create and run simple C# console applications\\store-and-iterate\\store-and-iterate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Create and run simple C# console applications\\store-and-iterate\\store-and-iterate.csproj": {
+    "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Create and run simple C# console applications\\store-and-iterate\\store-and-iterate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Create and run simple C# console applications\\store-and-iterate\\store-and-iterate.csproj",
+        "projectUniqueName": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Create and run simple C# console applications\\store-and-iterate\\store-and-iterate.csproj",
         "projectName": "store-and-iterate",
-        "projectPath": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Create and run simple C# console applications\\store-and-iterate\\store-and-iterate.csproj",
+        "projectPath": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Create and run simple C# console applications\\store-and-iterate\\store-and-iterate.csproj",
         "packagesPath": "C:\\Users\\Sameem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Create and run simple C# console applications\\store-and-iterate\\obj\\",
+        "outputPath": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Create and run simple C# console applications\\store-and-iterate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {

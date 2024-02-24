@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = if_elseif_else
-build_property.ProjectDir = C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\if-elseif-else\
+build_property.ProjectDir = C:\Users\Sameem\Documents\GitHub\freeCodeCamp-Certifications\Foundational C# with Microsoft\Create and run simple C# console applications\if-elseif-else\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

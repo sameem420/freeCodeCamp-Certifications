@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xAKHJWhKCMt3992tiGl2zjAi9s6LjKC9RvHNwg+p8p+lOyyaCHiKsRdGXgLUOKKb59ZC1G0vVJsgYGzwyaG7dA==",
+  "dgSpecHash": "RRYng1L8ri9pbCvFKuH4nNAbtd4rXd/Yo6TIkZYX2SzZ/zMQiQjq8SiCh01IBqdMVcD1daQozrWd4NL0La1PSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Create and run simple C# console applications (Get started with C#, Part 2)\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Create and run simple C# console applications\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
