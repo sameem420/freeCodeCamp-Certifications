@@ -1,0 +1,14 @@
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\whitespaces\bin\Debug\net8.0\whitespaces.exe
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\whitespaces\bin\Debug\net8.0\whitespaces.deps.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\whitespaces\bin\Debug\net8.0\whitespaces.runtimeconfig.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\whitespaces\bin\Debug\net8.0\whitespaces.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\whitespaces\bin\Debug\net8.0\whitespaces.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\whitespaces\obj\Debug\net8.0\whitespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\whitespaces\obj\Debug\net8.0\whitespaces.AssemblyInfoInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\whitespaces\obj\Debug\net8.0\whitespaces.AssemblyInfo.cs
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\whitespaces\obj\Debug\net8.0\whitespaces.csproj.CoreCompileInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\whitespaces\obj\Debug\net8.0\whitespaces.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\whitespaces\obj\Debug\net8.0\refint\whitespaces.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\whitespaces\obj\Debug\net8.0\whitespaces.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\whitespaces\obj\Debug\net8.0\whitespaces.genruntimeconfig.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\whitespaces\obj\Debug\net8.0\ref\whitespaces.dll

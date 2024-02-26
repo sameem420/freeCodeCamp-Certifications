@@ -1,0 +1,14 @@
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\code-comments\bin\Debug\net8.0\code-comments.exe
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\code-comments\bin\Debug\net8.0\code-comments.deps.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\code-comments\bin\Debug\net8.0\code-comments.runtimeconfig.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\code-comments\bin\Debug\net8.0\code-comments.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\code-comments\bin\Debug\net8.0\code-comments.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\code-comments\obj\Debug\net8.0\code-comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\code-comments\obj\Debug\net8.0\code-comments.AssemblyInfoInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\code-comments\obj\Debug\net8.0\code-comments.AssemblyInfo.cs
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\code-comments\obj\Debug\net8.0\code-comments.csproj.CoreCompileInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\code-comments\obj\Debug\net8.0\code-comments.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\code-comments\obj\Debug\net8.0\refint\code-comments.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\code-comments\obj\Debug\net8.0\code-comments.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\code-comments\obj\Debug\net8.0\code-comments.genruntimeconfig.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create readable code\code-comments\obj\Debug\net8.0\ref\code-comments.dll
