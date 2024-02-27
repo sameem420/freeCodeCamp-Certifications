@@ -1,0 +1,14 @@
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\challenge-project\bin\Debug\net8.0\challenge-project.exe
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\challenge-project\bin\Debug\net8.0\challenge-project.deps.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\challenge-project\bin\Debug\net8.0\challenge-project.runtimeconfig.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\challenge-project\bin\Debug\net8.0\challenge-project.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\challenge-project\bin\Debug\net8.0\challenge-project.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\challenge-project\obj\Debug\net8.0\challenge-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\challenge-project\obj\Debug\net8.0\challenge-project.AssemblyInfoInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\challenge-project\obj\Debug\net8.0\challenge-project.AssemblyInfo.cs
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\challenge-project\obj\Debug\net8.0\challenge-project.csproj.CoreCompileInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\challenge-project\obj\Debug\net8.0\challenge-project.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\challenge-project\obj\Debug\net8.0\refint\challenge-project.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\challenge-project\obj\Debug\net8.0\challenge-project.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\challenge-project\obj\Debug\net8.0\challenge-project.genruntimeconfig.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Create and run simple C# console applications\challenge-project\obj\Debug\net8.0\ref\challenge-project.dll
