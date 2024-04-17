@@ -1,0 +1,14 @@
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\bin\Debug\net8.0\evaluate-an-expression.exe
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\bin\Debug\net8.0\evaluate-an-expression.deps.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\bin\Debug\net8.0\evaluate-an-expression.runtimeconfig.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\bin\Debug\net8.0\evaluate-an-expression.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\bin\Debug\net8.0\evaluate-an-expression.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\obj\Debug\net8.0\evaluate-an-expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\obj\Debug\net8.0\evaluate-an-expression.AssemblyInfoInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\obj\Debug\net8.0\evaluate-an-expression.AssemblyInfo.cs
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\obj\Debug\net8.0\evaluate-an-expression.csproj.CoreCompileInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\obj\Debug\net8.0\evaluate-an-expression.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\obj\Debug\net8.0\refint\evaluate-an-expression.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\obj\Debug\net8.0\evaluate-an-expression.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\obj\Debug\net8.0\evaluate-an-expression.genruntimeconfig.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\obj\Debug\net8.0\ref\evaluate-an-expression.dll
