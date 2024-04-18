@@ -1,0 +1,14 @@
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity\bin\Debug\net8.0\challenge-activity.exe
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity\bin\Debug\net8.0\challenge-activity.deps.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity\bin\Debug\net8.0\challenge-activity.runtimeconfig.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity\bin\Debug\net8.0\challenge-activity.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity\bin\Debug\net8.0\challenge-activity.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity\obj\Debug\net8.0\challenge-activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity\obj\Debug\net8.0\challenge-activity.AssemblyInfoInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity\obj\Debug\net8.0\challenge-activity.AssemblyInfo.cs
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity\obj\Debug\net8.0\challenge-activity.csproj.CoreCompileInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity\obj\Debug\net8.0\challenge-activity.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity\obj\Debug\net8.0\refint\challenge-activity.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity\obj\Debug\net8.0\challenge-activity.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity\obj\Debug\net8.0\challenge-activity.genruntimeconfig.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity\obj\Debug\net8.0\ref\challenge-activity.dll

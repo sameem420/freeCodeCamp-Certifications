@@ -5,9 +5,9 @@
 // string myValue = "a";
 // Console.WriteLine(myValue == "a");
 
-// string value1 = " a";
-// string value2 = "A ";
-// Console.WriteLine(value1.Trim().ToLower() == value2.Trim().ToLower());
+string value1 = " a";
+string value2 = "A ";
+Console.WriteLine(value1.Trim().ToLower() == value2.Trim().ToLower());
 
 Console.WriteLine("a" != "a");
 Console.WriteLine("a" != "A");
@@ -32,3 +32,16 @@ Console.WriteLine(a != b); // output: True
 string s1 = "Hello";
 string s2 = "Hello";
 Console.WriteLine(s1 != s2); // output: False
+
+
+// Exercise - Implement the conditional operator
+
+// int saleAmount = 1001;
+// int discount = saleAmount > 1000 ? 100 : 50;
+// Console.WriteLine($"Discount: {discount}");
+
+// compact code
+int saleAmount = 1001;
+// int discount = saleAmount > 1000 ? 100 : 50;
+
+Console.WriteLine($"Discount: {(saleAmount > 1000 ? 100 : 50)}");
