@@ -1,0 +1,14 @@
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity-var-scope\bin\Debug\net8.0\challenge-activity-var-scope.exe
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity-var-scope\bin\Debug\net8.0\challenge-activity-var-scope.deps.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity-var-scope\bin\Debug\net8.0\challenge-activity-var-scope.runtimeconfig.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity-var-scope\bin\Debug\net8.0\challenge-activity-var-scope.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity-var-scope\bin\Debug\net8.0\challenge-activity-var-scope.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity-var-scope\obj\Debug\net8.0\challenge-activity-var-scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity-var-scope\obj\Debug\net8.0\challenge-activity-var-scope.AssemblyInfoInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity-var-scope\obj\Debug\net8.0\challenge-activity-var-scope.AssemblyInfo.cs
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity-var-scope\obj\Debug\net8.0\challenge-activity-var-scope.csproj.CoreCompileInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity-var-scope\obj\Debug\net8.0\challenge-activity-var-scope.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity-var-scope\obj\Debug\net8.0\refint\challenge-activity-var-scope.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity-var-scope\obj\Debug\net8.0\challenge-activity-var-scope.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity-var-scope\obj\Debug\net8.0\challenge-activity-var-scope.genruntimeconfig.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-activity-var-scope\obj\Debug\net8.0\ref\challenge-activity-var-scope.dll
