@@ -1,0 +1,14 @@
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\variable-scope-logic\bin\Debug\net8.0\variable-scope-logic.exe
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\variable-scope-logic\bin\Debug\net8.0\variable-scope-logic.deps.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\variable-scope-logic\bin\Debug\net8.0\variable-scope-logic.runtimeconfig.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\variable-scope-logic\bin\Debug\net8.0\variable-scope-logic.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\variable-scope-logic\bin\Debug\net8.0\variable-scope-logic.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\variable-scope-logic\obj\Debug\net8.0\variable-scope-logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\variable-scope-logic\obj\Debug\net8.0\variable-scope-logic.AssemblyInfoInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\variable-scope-logic\obj\Debug\net8.0\variable-scope-logic.AssemblyInfo.cs
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\variable-scope-logic\obj\Debug\net8.0\variable-scope-logic.csproj.CoreCompileInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\variable-scope-logic\obj\Debug\net8.0\variable-scope-logic.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\variable-scope-logic\obj\Debug\net8.0\refint\variable-scope-logic.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\variable-scope-logic\obj\Debug\net8.0\variable-scope-logic.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\variable-scope-logic\obj\Debug\net8.0\variable-scope-logic.genruntimeconfig.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\variable-scope-logic\obj\Debug\net8.0\ref\variable-scope-logic.dll
