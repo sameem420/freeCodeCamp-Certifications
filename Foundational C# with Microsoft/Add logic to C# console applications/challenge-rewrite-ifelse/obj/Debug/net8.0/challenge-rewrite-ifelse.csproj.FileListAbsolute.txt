@@ -1,0 +1,14 @@
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-rewrite-ifelse\obj\Debug\net8.0\challenge-rewrite-ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-rewrite-ifelse\obj\Debug\net8.0\challenge-rewrite-ifelse.AssemblyInfoInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-rewrite-ifelse\obj\Debug\net8.0\challenge-rewrite-ifelse.AssemblyInfo.cs
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-rewrite-ifelse\obj\Debug\net8.0\challenge-rewrite-ifelse.csproj.CoreCompileInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-rewrite-ifelse\bin\Debug\net8.0\challenge-rewrite-ifelse.exe
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-rewrite-ifelse\bin\Debug\net8.0\challenge-rewrite-ifelse.deps.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-rewrite-ifelse\bin\Debug\net8.0\challenge-rewrite-ifelse.runtimeconfig.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-rewrite-ifelse\bin\Debug\net8.0\challenge-rewrite-ifelse.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-rewrite-ifelse\bin\Debug\net8.0\challenge-rewrite-ifelse.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-rewrite-ifelse\obj\Debug\net8.0\challenge-rewrite-ifelse.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-rewrite-ifelse\obj\Debug\net8.0\refint\challenge-rewrite-ifelse.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-rewrite-ifelse\obj\Debug\net8.0\challenge-rewrite-ifelse.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-rewrite-ifelse\obj\Debug\net8.0\challenge-rewrite-ifelse.genruntimeconfig.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\challenge-rewrite-ifelse\obj\Debug\net8.0\ref\challenge-rewrite-ifelse.dll

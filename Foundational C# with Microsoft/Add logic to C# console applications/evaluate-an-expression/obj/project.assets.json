@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Add logic to C# console applications\\evaluate-an-expression\\evaluate-an-expression.csproj",
+      "projectUniqueName": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Add logic to C# console applications\\evaluate-an-expression\\evaluate-an-expression.csproj",
       "projectName": "evaluate-an-expression",
-      "projectPath": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Add logic to C# console applications\\evaluate-an-expression\\evaluate-an-expression.csproj",
+      "projectPath": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Add logic to C# console applications\\evaluate-an-expression\\evaluate-an-expression.csproj",
       "packagesPath": "C:\\Users\\Sameem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Add logic to C# console applications\\evaluate-an-expression\\obj\\",
+      "outputPath": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Add logic to C# console applications\\evaluate-an-expression\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.104/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

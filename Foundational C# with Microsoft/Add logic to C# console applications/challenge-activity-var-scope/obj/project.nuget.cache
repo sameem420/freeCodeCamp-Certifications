@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZgNfjkI32qgpc1p259h2GPXZ4+EjVza27q4F35yra/iROJcQJaTObUYEbwNMR7ZgYFUKUwUqyzje64j/D/iHTQ==",
+  "dgSpecHash": "tgrfQLdHqkxscsF8njxnMiPjF7vtNIBl7UNKiKCAD1MSl4xnKXV0qqwoEv6olzOLPPBuzMTfQ0BvOKetX7nfMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Add logic to C# console applications\\challenge-activity-var-scope\\challenge-activity-var-scope.csproj",
+  "projectFilePath": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Add logic to C# console applications\\challenge-activity-var-scope\\challenge-activity-var-scope.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

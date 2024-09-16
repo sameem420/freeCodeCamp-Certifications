@@ -1,0 +1,14 @@
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\switch-statement\bin\Debug\net8.0\switch-statement.exe
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\switch-statement\bin\Debug\net8.0\switch-statement.deps.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\switch-statement\bin\Debug\net8.0\switch-statement.runtimeconfig.json
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\switch-statement\bin\Debug\net8.0\switch-statement.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\switch-statement\bin\Debug\net8.0\switch-statement.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\switch-statement\obj\Debug\net8.0\switch-statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\switch-statement\obj\Debug\net8.0\switch-statement.AssemblyInfoInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\switch-statement\obj\Debug\net8.0\switch-statement.AssemblyInfo.cs
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\switch-statement\obj\Debug\net8.0\switch-statement.csproj.CoreCompileInputs.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\switch-statement\obj\Debug\net8.0\switch-statement.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\switch-statement\obj\Debug\net8.0\refint\switch-statement.dll
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\switch-statement\obj\Debug\net8.0\switch-statement.pdb
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\switch-statement\obj\Debug\net8.0\switch-statement.genruntimeconfig.cache
+C:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\switch-statement\obj\Debug\net8.0\ref\switch-statement.dll

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = evaluate_an_expression
-build_property.ProjectDir = c:\Users\Sameem\Desktop\CSharp-freeCodeCamp\Add logic to C# console applications\evaluate-an-expression\
+build_property.ProjectDir = c:\Users\Sameem\Documents\GitHub\freeCodeCamp-Certifications\Foundational C# with Microsoft\Add logic to C# console applications\evaluate-an-expression\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Add logic to C# console applications\\challenge-activity-var-scope\\challenge-activity-var-scope.csproj": {}
+    "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Add logic to C# console applications\\challenge-activity-var-scope\\challenge-activity-var-scope.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Add logic to C# console applications\\challenge-activity-var-scope\\challenge-activity-var-scope.csproj": {
+    "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Add logic to C# console applications\\challenge-activity-var-scope\\challenge-activity-var-scope.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Add logic to C# console applications\\challenge-activity-var-scope\\challenge-activity-var-scope.csproj",
+        "projectUniqueName": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Add logic to C# console applications\\challenge-activity-var-scope\\challenge-activity-var-scope.csproj",
         "projectName": "challenge-activity-var-scope",
-        "projectPath": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Add logic to C# console applications\\challenge-activity-var-scope\\challenge-activity-var-scope.csproj",
+        "projectPath": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Add logic to C# console applications\\challenge-activity-var-scope\\challenge-activity-var-scope.csproj",
         "packagesPath": "C:\\Users\\Sameem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sameem\\Desktop\\CSharp-freeCodeCamp\\Add logic to C# console applications\\challenge-activity-var-scope\\obj\\",
+        "outputPath": "C:\\Users\\Sameem\\Documents\\GitHub\\freeCodeCamp-Certifications\\Foundational C# with Microsoft\\Add logic to C# console applications\\challenge-activity-var-scope\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.104/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
