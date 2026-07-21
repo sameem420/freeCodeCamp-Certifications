@@ -2,6 +2,6 @@
 
 
 
-| Certification #️⃣ | 🧾 Certification | 🔗 Certification URL |
-|-------|:-------:|------------:|
-| 1️⃣ | 🟣 Foundational C# with Microsoft | [freeCodeCamp Link](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) |
+| Certification #️⃣ | 🧾 Certification | 🔗 Course URL | 🔗 Certification URL |
+|-------|:-------:|------------:|------------:|
+| 1️⃣ | 🟣 Front-End Development Libraries Certification | [freeCodeCamp Link](https://www.freecodecamp.org/learn/front-end-development-libraries-v9/) |
