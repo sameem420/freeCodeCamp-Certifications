@@ -4,6 +4,9 @@ import { pluginReact } from '@rsbuild/plugin-react';
 
 // Docs: https://rsbuild.rs/config/
 export default defineConfig({
+  html: {
+    title: "freeCodeCamp - Footer Lab",
+  },
   plugins: [
     pluginReact({
       reactCompiler: true,
