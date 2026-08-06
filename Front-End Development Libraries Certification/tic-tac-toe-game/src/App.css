@@ -1,0 +1,153 @@
+/* Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Page */
+
+body {
+    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+    background: linear-gradient(135deg, #4f46e5, #2563eb);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Card */
+
+.container {
+    width: 100%;
+    max-width: 420px;
+    background: #ffffff;
+    padding: 2rem;
+    border-radius: 18px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+/* Heading */
+
+.container h1 {
+    color: #1e293b;
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+}
+
+.container h5 {
+    color: #64748b;
+    margin-bottom: 1.75rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+/* Board */
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 90px);
+    gap: 12px;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+/* Squares */
+
+.square {
+    width: 90px;
+    height: 90px;
+    border: none;
+    border-radius: 12px;
+    background: #f8fafc;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #2563eb;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.square:hover:not(:disabled) {
+    background: #eff6ff;
+    transform: translateY(-2px);
+}
+
+.square:active:not(:disabled) {
+    transform: scale(0.96);
+}
+
+.square:disabled {
+    cursor: default;
+}
+
+/* X */
+
+.square.x {
+    color: #2563eb;
+}
+
+/* O */
+
+.square.o {
+    color: #dc2626;
+}
+
+/* Reset Button */
+
+.reset-btn {
+    width: 100%;
+    padding: 0.9rem;
+    border: none;
+    border-radius: 10px;
+    background: #2563eb;
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.reset-btn:hover {
+    background: #1d4ed8;
+}
+
+/* Winner */
+
+.winner {
+    color: #16a34a;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+/* Draw */
+
+.draw {
+    color: #ea580c;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+/* Mobile */
+
+@media (max-width: 500px) {
+    .container {
+        margin: 20px;
+        padding: 1.5rem;
+    }
+
+    .board {
+        grid-template-columns: repeat(3, 75px);
+        gap: 10px;
+    }
+
+    .square {
+        width: 75px;
+        height: 75px;
+        font-size: 2rem;
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe-game",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "rsbuild build",
+    "check": "biome check --write",
+    "dev": "rsbuild --open",
+    "format": "biome format --write",
+    "preview": "rsbuild preview"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.4.15",
+    "@rsbuild/core": "^2.1.10",
+    "@rsbuild/plugin-react": "^2.1.0"
+  }
+}
