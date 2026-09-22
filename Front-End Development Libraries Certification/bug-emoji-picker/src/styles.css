@@ -1,0 +1,381 @@
+:root {
+    --gradient-back: #987284;
+    --gradient-left: #f9b5ac;
+    --gradient-right: #aa7674;
+
+    --card: #ffffff;
+    --card-shadow: 0 10px 30px rgba(30, 41, 59, 0.12);
+
+    --font: #222;
+
+    --input-bg: rgba(255, 255, 255, 0.35);
+    --input-border: rgba(255, 255, 255, 0.55);
+
+    --focus: #987284;
+
+    --radius: 18px;
+}
+
+/* =========================================================
+   PAGE
+   ========================================================= */
+
+html {
+    width: 100%;
+    min-height: 100%;
+
+    background:
+        radial-gradient(
+            100% 100% at 10% 10%,
+            var(--gradient-left),
+            transparent 60%
+        ),
+        radial-gradient(
+            90% 85% at 90% 0%,
+            var(--gradient-right),
+            transparent 55%
+        ),
+        linear-gradient(180deg, var(--gradient-back), #ffffff);
+
+    background-attachment: fixed;
+}
+
+/* =========================================================
+   BODY / CARD
+   ========================================================= */
+
+body {
+    margin: 5rem auto;
+    padding: 2.5rem 3rem;
+
+    width: fit-content;
+    min-width: 15%;
+    max-width: 90vw;
+
+    color: var(--font);
+
+    font:
+        500 16px/1.4 system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+
+    background: rgba(255, 255, 255, 0.3);
+
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 15%;
+
+    box-shadow:
+        0 20px 50px rgba(30, 41, 59, 0.15),
+        inset 0 1px 0 rgba(255, 255, 255, 0.5);
+
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+
+    transition:
+        box-shadow 250ms ease,
+        transform 250ms ease;
+}
+
+body:hover {
+    box-shadow:
+        0 25px 60px rgba(30, 41, 59, 0.18),
+        inset 0 1px 0 rgba(255, 255, 255, 0.55);
+}
+
+/* =========================================================
+   FORM
+   ========================================================= */
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+
+    min-width: 280px;
+}
+
+/* =========================================================
+   LABELS
+   ========================================================= */
+
+label {
+    display: flex;
+    flex-direction: column;
+
+    gap: 0.45rem;
+
+    font-size: 0.9rem;
+    font-weight: 650;
+
+    color: #332b31;
+}
+
+/* =========================================================
+   INPUTS / SELECT
+   ========================================================= */
+
+select,
+input {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+
+    width: 100%;
+
+    background: var(--input-bg);
+
+    border: 1px solid var(--input-border);
+    border-radius: 12px;
+
+    padding: 0.7rem 0.9rem;
+
+    color: #222;
+
+    font:
+        500 1rem system-ui,
+        sans-serif;
+
+    box-shadow:
+        0 4px 12px rgba(0, 0, 0, 0.1),
+        inset 0 1px 0 rgba(255, 255, 255, 0.4);
+
+    outline: none;
+
+    transition:
+        border-color 180ms ease,
+        box-shadow 180ms ease,
+        background 180ms ease,
+        transform 180ms ease;
+}
+
+/* Hover */
+
+select:hover,
+input:hover {
+    background: rgba(255, 255, 255, 0.45);
+
+    border-color: rgba(255, 255, 255, 0.8);
+}
+
+/* Focus */
+
+select:focus,
+input:focus {
+    background: rgba(255, 255, 255, 0.55);
+
+    border-color: var(--focus);
+
+    box-shadow:
+        0 0 0 3px rgba(152, 114, 132, 0.2),
+        0 6px 16px rgba(0, 0, 0, 0.12);
+}
+
+/* =========================================================
+   NUMBER INPUT
+   ========================================================= */
+
+input[type="number"] {
+    appearance: textfield;
+    -moz-appearance: textfield;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    opacity: 0.7;
+}
+
+/* =========================================================
+   SELECT ARROW
+   ========================================================= */
+
+select {
+    cursor: pointer;
+
+    padding-right: 2.5rem;
+
+    background-image:
+        linear-gradient(45deg, transparent 50%, #555 50%),
+        linear-gradient(135deg, #555 50%, transparent 50%);
+
+    background-position:
+        calc(100% - 18px) 50%,
+        calc(100% - 13px) 50%;
+
+    background-size:
+        5px 5px,
+        5px 5px;
+
+    background-repeat: no-repeat;
+}
+
+/* =========================================================
+   BUTTON
+   ========================================================= */
+
+button {
+    width: 100%;
+
+    margin-top: 0.5rem;
+
+    padding: 0.75rem 1rem;
+
+    border: none;
+    border-radius: 12px;
+
+    color: #ffffff;
+
+    background: linear-gradient(135deg, #987284, #aa7674);
+
+    font:
+        700 1rem system-ui,
+        sans-serif;
+
+    cursor: pointer;
+
+    box-shadow: 0 8px 18px rgba(30, 41, 59, 0.18);
+
+    transition:
+        transform 180ms ease,
+        box-shadow 180ms ease,
+        filter 180ms ease;
+}
+
+button:hover {
+    transform: translateY(-2px);
+
+    filter: brightness(1.05);
+
+    box-shadow: 0 12px 24px rgba(30, 41, 59, 0.22);
+}
+
+button:active {
+    transform: translateY(0);
+
+    box-shadow: 0 5px 12px rgba(30, 41, 59, 0.15);
+}
+
+button:focus-visible {
+    outline: 3px solid rgba(152, 114, 132, 0.35);
+    outline-offset: 3px;
+}
+
+/* =========================================================
+   BUG EMOJI
+   ========================================================= */
+
+#bug-emoji {
+    margin: 0 auto 1.5rem;
+
+    width: fit-content;
+
+    font-size: 128px;
+    line-height: 1;
+
+    filter: drop-shadow(0 10px 15px rgba(0, 0, 0, 0.15));
+
+    user-select: none;
+
+    transition:
+        transform 300ms ease,
+        filter 300ms ease;
+}
+
+#bug-emoji:hover {
+    transform: translateY(-5px) rotate(-3deg);
+
+    filter: drop-shadow(0 15px 20px rgba(0, 0, 0, 0.2));
+}
+
+/* =========================================================
+   HEADINGS
+   ========================================================= */
+
+h1,
+h2,
+h3 {
+    margin-top: 0;
+
+    color: #2b2228;
+
+    letter-spacing: -0.025em;
+}
+
+/* =========================================================
+   PARAGRAPHS
+   ========================================================= */
+
+p {
+    color: rgba(34, 34, 34, 0.75);
+}
+
+/* =========================================================
+   RESPONSIVE
+   ========================================================= */
+
+@media (max-width: 640px) {
+    html {
+        background:
+            radial-gradient(
+                120% 70% at 0% 0%,
+                var(--gradient-left),
+                transparent 65%
+            ),
+            radial-gradient(
+                100% 70% at 100% 0%,
+                var(--gradient-right),
+                transparent 60%
+            ),
+            linear-gradient(180deg, var(--gradient-back), #ffffff);
+    }
+
+    body {
+        margin: 2rem auto;
+        padding: 2rem 1.25rem;
+
+        width: calc(100% - 2rem);
+        max-width: 420px;
+
+        border-radius: 24px;
+    }
+
+    form {
+        min-width: 0;
+        width: 100%;
+    }
+
+    #bug-emoji {
+        font-size: 90px;
+        margin-bottom: 1rem;
+    }
+
+    select,
+    input {
+        font-size: 16px;
+        padding: 0.75rem 0.85rem;
+    }
+}
+
+/* =========================================================
+   VERY SMALL DEVICES
+   ========================================================= */
+
+@media (max-width: 380px) {
+    body {
+        margin: 1rem auto;
+        padding: 1.5rem 1rem;
+
+        width: calc(100% - 1rem);
+
+        border-radius: 20px;
+    }
+
+    #bug-emoji {
+        font-size: 72px;
+    }
+
+    form {
+        gap: 1rem;
+    }
+}
