@@ -1,0 +1,888 @@
+:root {
+    /* Background Colors */
+    --bg-main: #0b0f1a;
+    --bg-card: #131622;
+    --bg-secondary: #232633;
+
+    /* Text Colors */
+    --text-primary: #f7e580;
+    --text-muted: #b8a880;
+    --text-dark: #0b0f1a;
+    --text-light: #f8fafc;
+
+    /* Border Colors */
+    --border-main: #2a2d3a;
+    --border-input: #232633;
+
+    /* Accent Colors */
+    --accent-primary: #8080ff;
+    --accent-secondary: #b8a866;
+    --accent-mystic: #bf80ff;
+    --accent-light-cosmic: #b3b3ff;
+    --accent-light-gold: #f2d966;
+
+    /* Interactive Colors */
+    --focus-ring: #8080ff;
+    --destructive: #e53e3e;
+
+    /* Gradient Colors */
+    --gradient-cosmic-from: #6366f1;
+    --gradient-cosmic-to: #a855f7;
+
+    --gradient-gold-from: #b8a866;
+    --gradient-gold-to: #f2d966;
+
+    --gradient-card-from: #131622;
+    --gradient-card-to: #1a1e2e;
+
+    /* Shadows */
+    --shadow-sm: 0 4px 12px rgba(0, 0, 0, 0.25);
+    --shadow-md: 0 10px 30px rgba(0, 0, 0, 0.35);
+    --shadow-lg: 0 20px 50px rgba(0, 0, 0, 0.45);
+    --shadow-glow: 0 0 25px rgba(191, 128, 255, 0.25);
+}
+
+/* ================================
+   RESET
+================================ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    min-height: 100%;
+    scroll-behavior: smooth;
+}
+
+body {
+    min-height: 100vh;
+
+    color: var(--text-primary);
+
+    text-align: center;
+
+    font-family:
+        ui-sans-serif,
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+
+    background:
+        radial-gradient(
+            circle at 10% 10%,
+            rgba(129, 140, 248, 0.22),
+            transparent 30%
+        ),
+        radial-gradient(
+            circle at 90% 10%,
+            rgba(192, 132, 252, 0.2),
+            transparent 30%
+        ),
+        radial-gradient(
+            circle at 50% 100%,
+            rgba(245, 158, 11, 0.08),
+            transparent 35%
+        ),
+        linear-gradient(
+            135deg,
+            #0f172a 0%,
+            #1e1b4b 45%,
+            #3b0764 70%,
+            #0f172a 100%
+        );
+
+    background-attachment: fixed;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* ================================
+   MAIN CONTAINER
+================================ */
+
+#main_container {
+    width: min(1100px, calc(100% - 2rem));
+    margin: 2rem auto;
+    padding-bottom: 3rem;
+}
+
+/* ================================
+   HEADER
+================================ */
+
+header {
+    position: relative;
+
+    padding: 2.5rem 1.5rem;
+
+    background: linear-gradient(
+        135deg,
+        rgba(15, 23, 42, 0.9),
+        rgba(76, 29, 149, 0.55)
+    );
+
+    border: 1px solid rgba(191, 128, 255, 0.25);
+
+    border-radius: 1.25rem;
+
+    box-shadow:
+        var(--shadow-lg),
+        0 0 40px rgba(128, 128, 255, 0.1);
+
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+
+    overflow: hidden;
+}
+
+header::before {
+    content: "";
+
+    position: absolute;
+
+    width: 200px;
+    height: 200px;
+
+    top: -100px;
+    right: -60px;
+
+    background: rgba(191, 128, 255, 0.15);
+
+    border-radius: 50%;
+
+    filter: blur(10px);
+}
+
+header::after {
+    content: "";
+
+    position: absolute;
+
+    width: 160px;
+    height: 160px;
+
+    bottom: -100px;
+    left: -50px;
+
+    background: rgba(242, 217, 102, 0.08);
+
+    border-radius: 50%;
+
+    filter: blur(10px);
+}
+
+/* ================================
+   TYPOGRAPHY
+================================ */
+
+h1 {
+    position: relative;
+    z-index: 1;
+
+    color: transparent;
+
+    background: linear-gradient(
+        90deg,
+        var(--accent-light-gold),
+        var(--accent-mystic),
+        var(--accent-light-cosmic)
+    );
+
+    background-clip: text;
+    -webkit-background-clip: text;
+
+    font-weight: 800;
+    font-size: clamp(2.3rem, 6vw, 4rem);
+
+    letter-spacing: -0.04em;
+
+    padding-bottom: 0.75rem;
+
+    text-shadow: 0 0 30px rgba(191, 128, 255, 0.2);
+}
+
+h2 {
+    color: var(--accent-light-gold);
+
+    font-weight: 700;
+
+    font-size: clamp(1.4rem, 4vw, 1.9rem);
+
+    margin: 2rem 0;
+
+    letter-spacing: -0.02em;
+}
+
+h5 {
+    color: var(--text-muted);
+
+    font-size: 1rem;
+
+    line-height: 1.7;
+}
+
+h6 {
+    position: relative;
+    z-index: 1;
+
+    color: var(--text-muted);
+
+    font-size: clamp(0.95rem, 2.5vw, 1.15rem);
+
+    font-weight: 400;
+
+    line-height: 1.7;
+
+    max-width: 700px;
+
+    margin: 0 auto;
+}
+
+/* ================================
+   READING SECTION
+================================ */
+
+#btn_title_container {
+    margin-top: 2rem;
+
+    padding: 2rem;
+
+    background: rgba(15, 23, 42, 0.55);
+
+    border: 1px solid rgba(255, 255, 255, 0.08);
+
+    border-radius: 1.25rem;
+
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+
+    box-shadow: var(--shadow-md);
+}
+
+.title_wrapper {
+    margin-bottom: 1.5rem;
+}
+
+.header_title {
+    margin: 0;
+}
+
+/* ================================
+   BUTTONS
+================================ */
+
+.btn_wrapper {
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+
+    gap: 1rem;
+}
+
+.btn {
+    position: relative;
+
+    width: 100%;
+    max-width: 320px;
+
+    color: var(--text-dark);
+
+    font-weight: 700;
+
+    font-size: 1rem;
+
+    padding: 0.95rem 1.5rem;
+
+    cursor: pointer;
+
+    white-space: nowrap;
+
+    border-radius: 0.75rem;
+
+    outline: none;
+
+    border: 1px solid transparent;
+
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease,
+        filter 0.25s ease;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+
+    filter: brightness(1.08);
+
+    box-shadow:
+        0 10px 25px rgba(0, 0, 0, 0.3),
+        0 0 20px rgba(191, 128, 255, 0.2);
+}
+
+.btn:active {
+    transform: translateY(-1px);
+}
+
+.btn:focus-visible {
+    outline: 3px solid rgba(128, 128, 255, 0.4);
+
+    outline-offset: 3px;
+}
+
+.btn_singleCard {
+    background-image: linear-gradient(
+        135deg,
+        var(--gradient-cosmic-from),
+        var(--gradient-cosmic-to)
+    );
+
+    box-shadow: 0 6px 18px rgba(99, 102, 241, 0.25);
+}
+
+.btn_threeCard {
+    color: #1f2937;
+
+    background-image: linear-gradient(
+        135deg,
+        var(--gradient-gold-from),
+        var(--gradient-gold-to)
+    );
+
+    box-shadow: 0 6px 18px rgba(242, 217, 102, 0.2);
+}
+
+.btn_reveal {
+    color: var(--text-dark);
+
+    font-weight: 700;
+
+    font-size: 0.95rem;
+
+    padding: 0.7rem 1.5rem;
+
+    cursor: pointer;
+
+    outline: none;
+
+    border: none;
+
+    background-image: linear-gradient(
+        135deg,
+        var(--gradient-gold-from),
+        var(--gradient-gold-to)
+    );
+
+    border-radius: 999px;
+
+    margin: 2rem auto 0;
+
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease,
+        filter 0.25s ease;
+}
+
+.btn_reveal:hover {
+    transform: translateY(-2px);
+
+    filter: brightness(1.08);
+
+    box-shadow: 0 8px 20px rgba(242, 217, 102, 0.2);
+}
+
+/* ================================
+   FORTUNE CONTAINER
+================================ */
+
+.fortune_container {
+    margin-top: 2rem;
+
+    padding: 2rem 1rem;
+
+    background: linear-gradient(
+        145deg,
+        rgba(15, 23, 42, 0.8),
+        rgba(30, 27, 75, 0.65)
+    );
+
+    border: 1px solid rgba(191, 128, 255, 0.18);
+
+    border-radius: 1.5rem;
+
+    box-shadow: var(--shadow-lg);
+
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+}
+
+/* ================================
+   FORTUNE DESCRIPTION
+================================ */
+
+.fortune_description {
+    width: min(900px, 95%);
+
+    border: 1px solid rgba(179, 179, 255, 0.3);
+
+    border-radius: 1rem;
+
+    display: flex;
+
+    align-items: center;
+
+    flex-direction: column;
+
+    justify-content: center;
+
+    margin: 2rem auto;
+
+    padding: 1.5rem;
+
+    background: linear-gradient(
+        145deg,
+        rgba(15, 23, 42, 0.92),
+        rgba(30, 41, 59, 0.92)
+    );
+
+    box-shadow:
+        var(--shadow-md),
+        inset 0 1px rgba(255, 255, 255, 0.05);
+
+    animation: fadeIn 0.5s ease;
+}
+
+.fortune_description h2 {
+    margin: 0;
+
+    padding-bottom: 0.75rem;
+}
+
+/* ================================
+   DESCRIPTION
+================================ */
+
+.description_wrapper {
+    width: 100%;
+
+    background: linear-gradient(
+        135deg,
+        rgba(88, 28, 135, 0.2),
+        rgba(30, 41, 59, 0.35)
+    );
+
+    border-radius: 0.75rem;
+
+    border: 1px solid rgba(168, 85, 247, 0.2);
+
+    color: var(--accent-secondary);
+
+    padding: 1.5rem;
+
+    margin: 1rem 0;
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 0.75rem;
+
+    align-items: center;
+
+    justify-content: center;
+}
+
+.desc_title {
+    color: var(--accent-light-gold);
+
+    font-size: 0.8rem;
+
+    font-weight: 700;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.12em;
+}
+
+.description {
+    color: #d1d5db;
+
+    line-height: 1.8;
+
+    max-width: 750px;
+}
+
+/* ================================
+   TAROT CARDS
+================================ */
+
+.single_card {
+    min-height: 250px;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+}
+
+.card_container {
+    position: relative;
+
+    width: 10rem;
+
+    height: 15rem;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    background-size: cover;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    margin: 0 auto;
+
+    overflow: hidden;
+
+    border-radius: 0.75rem;
+
+    cursor: pointer;
+
+    border: 2px solid var(--accent-light-gold);
+
+    box-shadow:
+        0 0 10px rgba(242, 217, 102, 0.4),
+        0 0 30px rgba(191, 128, 255, 0.15);
+
+    transition:
+        transform 0.35s ease,
+        box-shadow 0.35s ease;
+}
+
+.card_container:hover {
+    transform: translateY(-8px);
+
+    box-shadow:
+        0 15px 35px rgba(0, 0, 0, 0.4),
+        0 0 25px rgba(242, 217, 102, 0.35);
+}
+
+.card_container img {
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+}
+
+.reversed-card {
+    transform: rotate(180deg);
+
+    transition:
+        transform 0.4s ease,
+        box-shadow 0.35s ease;
+}
+
+.reversed-card:hover {
+    transform: rotate(0deg) translateY(-4%);
+}
+
+.card_front span:nth-child(2) {
+    font-size: 1.3rem;
+}
+
+.card_front span:nth-child(1) {
+    font-size: 1.8rem;
+}
+
+.card_back {
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    width: 10rem;
+
+    height: 15rem;
+
+    border: 2px solid var(--gradient-cosmic-from);
+
+    border-radius: 0.75rem;
+
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+    cursor: pointer;
+
+    box-shadow: 0 0 20px rgba(128, 128, 255, 0.2);
+}
+
+/* ================================
+   MULTIPLE CARDS
+================================ */
+
+.multiple_card {
+    display: flex;
+
+    gap: 1.25rem;
+
+    align-items: center;
+
+    justify-content: center;
+
+    flex-direction: column;
+
+    flex-wrap: wrap;
+
+    padding: 1rem;
+}
+
+.card-shield span {
+    opacity: 1;
+
+    z-index: 3;
+}
+
+/* ================================
+   LOADING
+================================ */
+
+.img-loader {
+    width: 80px;
+
+    height: 120px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    margin: 0 auto;
+}
+
+.img-loader:after {
+    content: "";
+
+    display: block;
+
+    width: 38px;
+
+    height: 38px;
+
+    border: 3px solid rgba(255, 255, 255, 0.15);
+
+    border-top-color: var(--accent-light-gold);
+
+    border-right-color: var(--accent-mystic);
+
+    border-radius: 50%;
+
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* ================================
+   UTILITIES
+================================ */
+
+.hidden {
+    display: none;
+}
+
+.card-img.hidden {
+    display: none;
+}
+
+/* ================================
+   ANIMATIONS
+================================ */
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+
+        transform: translateY(0);
+    }
+}
+
+/* ================================
+   TABLET
+================================ */
+
+@media screen and (min-width: 600px) {
+    #main_container {
+        width: min(1100px, calc(100% - 3rem));
+
+        margin: 3rem auto;
+    }
+
+    h1 {
+        font-size: 3.5rem;
+    }
+
+    .btn_wrapper {
+        flex-direction: row;
+    }
+
+    .btn {
+        width: auto;
+        min-width: 230px;
+    }
+
+    .fortune_description {
+        padding: 2rem;
+        width: 80%;
+    }
+
+    .multiple_card {
+        gap: 1.5rem;
+
+        flex-direction: row;
+    }
+}
+
+/* ================================
+   DESKTOP
+================================ */
+
+@media screen and (min-width: 900px) {
+    #main_container {
+        margin-top: 4rem;
+    }
+
+    header {
+        padding: 3.5rem 2rem;
+    }
+
+    #btn_title_container {
+        padding: 2.5rem;
+    }
+
+    .fortune_container {
+        padding: 3rem 2rem;
+    }
+
+    .multiple_card {
+        gap: 2rem;
+    }
+}
+
+/* ================================
+   SMALL MOBILE
+================================ */
+
+@media screen and (max-width: 480px) {
+    #main_container {
+        width: calc(100% - 1rem);
+
+        margin: 0.5rem auto;
+    }
+
+    header {
+        padding: 2rem 1rem;
+
+        border-radius: 1rem;
+    }
+
+    h1 {
+        font-size: 2.25rem;
+    }
+
+    h2 {
+        font-size: 1.4rem;
+    }
+
+    h6 {
+        font-size: 0.9rem;
+    }
+
+    #btn_title_container {
+        padding: 1.25rem;
+
+        border-radius: 1rem;
+    }
+
+    .btn {
+        max-width: 100%;
+
+        padding: 0.85rem 1rem;
+
+        font-size: 0.9rem;
+    }
+
+    .fortune_container {
+        padding: 1.5rem 0.5rem;
+
+        border-radius: 1rem;
+    }
+
+    .fortune_description {
+        width: 100%;
+
+        padding: 1rem;
+
+        border-radius: 0.75rem;
+    }
+
+    .description_wrapper {
+        padding: 1rem;
+    }
+
+    .multiple_card {
+        gap: 1rem;
+    }
+
+    .card_container,
+    .card_back {
+        width: 8.5rem;
+
+        height: 13rem;
+    }
+}
+
+/* ================================
+   REDUCED MOTION
+================================ */
+
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        scroll-behavior: auto !important;
+
+        animation-duration: 0.01ms !important;
+
+        animation-iteration-count: 1 !important;
+
+        transition-duration: 0.01ms !important;
+    }
+}
