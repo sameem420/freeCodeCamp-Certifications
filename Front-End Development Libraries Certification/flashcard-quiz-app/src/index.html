@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta
+            name="description"
+            content="A simple flashcard application for creating and studying flashcards."
+        />
+        <title>freeCodeCamp - Flashcard Quiz App (TypeScript)</title>
+        <link rel="stylesheet" href="./styles.css" />
+    </head>
+
+    <body>
+        <main class="flashcard-app">
+            <!-- =========================
+                 Flashcard + Cards
+            ========================== -->
+
+            <section class="flashcard-section">
+                <aside class="cards-panel">
+                    <div class="cards-header">
+                        <h2>Your Cards</h2>
+                        <span id="cards-count">0</span>
+                    </div>
+
+                    <div id="cards" class="cards-list"></div>
+                </aside>
+
+                <div class="active-card-panel">
+                    <section
+                        id="flashcard"
+                        class="flashcard"
+                        aria-label="Flashcard"
+                    ></section>
+
+                    <button id="delete-btn" type="button">Delete Card</button>
+                </div>
+            </section>
+
+            <!-- =========================
+                 Card Entry Form
+            ========================== -->
+
+            <form id="entry-form" class="entry-form">
+                <div class="form-header">
+                    <div>
+                        <span class="form-eyebrow">New Card</span>
+                        <h1 class="form-title">Create Flashcard</h1>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="front-text">Front Text</label>
+
+                    <textarea
+                        id="front-text"
+                        name="front-text"
+                        placeholder="Enter the question or term..."
+                        rows="5"
+                    ></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="back-text">Back Text</label>
+
+                    <textarea
+                        id="back-text"
+                        name="back-text"
+                        placeholder="Enter the answer or definition..."
+                        rows="5"
+                    ></textarea>
+                </div>
+
+                <button id="save-btn" type="submit" class="save-btn">
+                    <span class="button-icon" aria-hidden="true">💾</span>
+                    <span>Save Card</span>
+                </button>
+            </form>
+        </main>
+
+        <script src="./index.ts"></script>
+    </body>
+</html>
